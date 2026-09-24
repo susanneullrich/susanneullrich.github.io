@@ -1,0 +1,4 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TR|01 May 2016 14:55:09 -0000
+vti_extenderversion:SR|12.0.0.0
+vti_backlinkinfo:VX|bootstrap/startbootstrap-modern-business-1.0.5/index.html bootstrap/startbootstrap-modern-business-1.0.5/publications.html bootstrap/startbootstrap-modern-business-1.0.5/Projects.html bootstrap/startbootstrap-modern-business-1.0.5/Lab\\ pictures.html bootstrap/startbootstrap-modern-business-1.0.5/outreach.html bootstrap/startbootstrap-modern-business-1.0.5/Teaching.html bootstrap/startbootstrap-modern-business-1.0.5/contact.html bootstrap/startbootstrap-modern-business-1.0.5/about_us.html
